@@ -8,9 +8,9 @@ import { styles } from "../styles";
 
 const Tech = () => {
   return (
-    <div className='flex flex-col items-center gap-10'>
+    <div className='flex flex-col items-center gap-10 max-w-6xl mx-auto'>
       <h2 className={`${styles.sectionHeadText} text-center`}>
-        Technologies / Frameworks.
+        Technologies
       </h2>
       <div className='flex flex-row flex-wrap justify-center gap-10'>
         {technologies.map((technology) => (

@@ -38,6 +38,10 @@ import {
   
   export const navLinks = [
     {
+      id: "about",
+      title: "About",
+    },
+    {
       id: "work",
       title: "Work Experience",
     },
@@ -149,7 +153,7 @@ import {
       iconBg: "#FFFFFF",
       date: "May 2024 - July 2024",
       points: [
-        "Migrated a static deployment from Heroku to AWS Elastic Beanstalk and designed a CI/CD pipeline to automate the release process, significantly reducing deployment time and enhancing reliability.",
+        "Migrated a static deployment from Heroku to AWS Elastic Beanstalk and designed a CI/CD pipeline to automate the release process, reducing deployment time by 75%.",
         "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
         "Conducted rigorous testing of 15+ custom and third-party APIs using Postman, ensuring compliance with specifications and enhancing system reliability.",
       ],

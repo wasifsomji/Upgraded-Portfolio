@@ -13,11 +13,11 @@ const Hero = () => {
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
 
-          <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>
+          <div className="ml-15">
+          <h1 className={`${styles.heroHeadText} text-white mt-24 ml-24`}>
             Hi, I'm <span className='text-[#915EFF]'>Wasif</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`${styles.heroSubText} text-white-100 ml-24`}>
             Computer Engineering '25 @ McGill<br className='sm:block hidden' />
           </p>
         </div>
