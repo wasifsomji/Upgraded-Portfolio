@@ -82,7 +82,7 @@ const Contact = () => {
           <a href="https://github.com/wasifsomji" target="_blank" rel="noopener noreferrer">
             <img src={github} alt="GitHub" className='w-20 h-20' />
           </a>
-          <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/wasifsomji/" target="_blank" rel="noopener noreferrer">
             <img src={linkedin} alt="LinkedIn" className='w-25 h-25' />
           </a>
           <a href="mailto:wasifsomji@gmail.com">
