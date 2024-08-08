@@ -12,7 +12,7 @@ const Hero = () => {
         </div>
         <div className="ml-20 flex flex-col">
           <div className="flex items-center">
-            <h1 className={`${styles.heroHeadText} text-white mt-24 ml-24`}>
+            <h1 className={`${styles.heroHeadText} text-white mt-20 ml-24`}>
               Hi, I'm <span className='text-[#915EFF]'>Wasif</span>
             </h1>
             <div className="ml-40 mt-32">
