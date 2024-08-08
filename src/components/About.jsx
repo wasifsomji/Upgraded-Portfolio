@@ -38,7 +38,7 @@ const ServiceCard = ({ index, title, icon }) =>  {
 
 const About = () => {
   return (
-    <div id="about" className='flex flex-col items-center'>
+    <div id="about" className='flex flex-col items-center pt-20'>
       <motion.div variants={textVariant()} className='text-center'>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>About Me</h2>

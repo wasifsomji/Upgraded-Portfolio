@@ -24,6 +24,7 @@ import go from "./tech/go.png";
 import java from "./tech/java.png";
 import postgres from "./tech/postgres.png";
 import spring from "./tech/spring.png";
+import next from "./tech/nextjs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -81,4 +82,5 @@ export {
   spring,
   mrgtravel,
   ventures,
+  next,
 };

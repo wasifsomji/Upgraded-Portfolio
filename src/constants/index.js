@@ -34,6 +34,7 @@ import {
     spring,
     mrgtravel,
     ventures,
+    next,
   } from "../assets";
   
   export const navLinks = [
@@ -94,6 +95,10 @@ import {
     {
       name: "React JS",
       icon: reactjs,
+    },
+    {
+      name: "Next JS",
+      icon: next,
     },
     {
       name: "Node JS",
