@@ -1,27 +1,32 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { ComputersCanvas } from "./canvas";
+import Laptop from "./Laptop";
 
 const Hero = () => {
   return (
     <section className="relative w-full h-screen mx-auto flex justify-center items-center">
-      <div className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7x1 mx-auto flex flex-row items-start gap-5`}>
+      <div className={`${styles.paddingX} absolute inset-0 top-[120px] w-full max-w-7x1 mx-auto flex flex-row items-start gap-5`}>
         <div className="flex flex-col justify-center items-center mt-5">
           <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
-        <div className="ml-20 flex flex-col">
-          <div className="flex items-center">
-            <h1 className={`${styles.heroHeadText} text-white mt-20 ml-24`}>
+        <div className="flex flex-col w-full">
+          <div className="flex items-center justify-center">
+            <h1 className={`${styles.heroHeadText} text-white mt-24`}>
               Hi, I'm <span className='text-[#915EFF]'>Wasif</span>
             </h1>
-            <div className="ml-40 mt-32">
-              <div className="loader ml-4 mt-24"></div>
+            <div>
+              {/* <div className="loader"></div> */}
             </div>
           </div>
-          <p className={`${styles.heroSubText} text-white-100 ml-24`}>
-            Computer Engineering '25 @ McGill<br className='sm:block hidden' />
-          </p>
+          <div className="flex flex-col w-full items-center justify-center">
+            <p className={`${styles.heroSubText} text-white-100`}>
+              Computer Engineering '25 @ McGill<br className='sm:block hidden' />
+            </p>
+          </div>
+          <div>
+            <Laptop />
+          </div>
         </div>
       </div>
 
