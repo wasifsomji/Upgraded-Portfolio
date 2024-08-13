@@ -244,7 +244,7 @@ import {
         },
         {
           name: "scss",
-          color: "pink-text-gradient",
+          color: "orange-text-gradient"
         },
       ],
       image: ventures,
