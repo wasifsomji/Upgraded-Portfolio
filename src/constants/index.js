@@ -134,9 +134,9 @@ import {
       iconBg: "#000000",
       date: "March 2020 - April 2021",
       points: [
-        "Led the development of the refactored MRG Travel website using Next.js, integrating Google APIs to increase travel consultant booking speed by 99+%.",
-        "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and developed 80+ unit and integration tests for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
-        "Migrated 15+ Nest.js endpoints to GraphQL APIs across web and mobile, decreasing response times by 22%.",
+        "Led the development of the refactored MRG Travel website using Next.js, integrating Google APIs to automate travel consultant bookings, leading to a $12,000+/month increase in travel package sales.",
+        "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and developed 100+ unit and integration tests for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
+        "Migrated 15+ Nest.js REST endpoints to GraphQL APIs for an internal hospitality management tool across web and mobile, decreasing response times by 22%.",
         "Leveraged Sentry SDK to proactively identify and resolve 20+ bugs in GraphQL API endpoints and React.js frontend features.",
         "Shipped web and mobile features within the AdmitOne Ticketing Platform, utilzing React.js, React Native, and Go to enhance user experience."
       ],
