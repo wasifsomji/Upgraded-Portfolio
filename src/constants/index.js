@@ -148,9 +148,8 @@ import {
       iconBg: "#FFFFFF",
       date: "July 2024 - Present",
       points: [
-        "Migrated a static deployment from Heroku to AWS Elastic Beanstalk and designed a CI/CD pipeline to automate the release process, reducing deployment time by 75%.",
-        "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
-        "Conducted rigorous testing of 15+ custom and third-party APIs using Postman, ensuring compliance with specifications and enhancing system reliability."
+        "Developed mobile authentication and onboarding flow, leveraging React Native and Figma for the UI, Supabase for user authentication, and GPT-4 DALL-E model for image generation.",
+        "Wrote a Python script to handle pagination for web scraping online products across 5+ brands, reducing scraping time by 42%."
       ],
     },
     {
