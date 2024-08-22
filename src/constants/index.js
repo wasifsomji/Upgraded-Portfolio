@@ -148,7 +148,9 @@ import {
       iconBg: "#FFFFFF",
       date: "July 2024 - Present",
       points: [
-        "Stella | AI Fashion Assistant",
+        "Migrated a static deployment from Heroku to AWS Elastic Beanstalk and designed a CI/CD pipeline to automate the release process, reducing deployment time by 75%.",
+        "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
+        "Conducted rigorous testing of 15+ custom and third-party APIs using Postman, ensuring compliance with specifications and enhancing system reliability."
       ],
     },
     {
@@ -189,30 +191,7 @@ import {
   ];
   
   const testimonials = [
-    // {
-    //   testimonial:
-    //     "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    //   name: "Sara Lee",
-    //   designation: "CFO",
-    //   company: "Acme Co",
-    //   image: "https://randomuser.me/api/portraits/women/4.jpg",
-    // },
-    // {
-    //   testimonial:
-    //     "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    //   name: "Chris Brown",
-    //   designation: "COO",
-    //   company: "DEF Corp",
-    //   image: "https://randomuser.me/api/portraits/men/5.jpg",
-    // },
-    // {
-    //   testimonial:
-    //     "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    //   name: "Lisa Wang",
-    //   designation: "CTO",
-    //   company: "456 Enterprises",
-    //   image: "https://randomuser.me/api/portraits/women/6.jpg",
-    // },
+    
   ];
   
   const projects = [
