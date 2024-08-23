@@ -204,6 +204,10 @@ import {
           color: "blue-text-gradient",
         },
         {
+          name: "typescript",
+          color: "orange-text-gradient",
+        },
+        {
           name: "googleapis",
           color: "green-text-gradient",
         },
@@ -221,8 +225,12 @@ import {
           color: "blue-text-gradient",
         },
         {
+          name: "typescript",
+          color: "orange-text-gradient",
+        },
+        {
           name: "scss",
-          color: "orange-text-gradient"
+          color: "green-text-gradient"
         },
       ],
       image: ventures,
