@@ -169,7 +169,7 @@ import {
       company_name: "Khamis Towoing & Roadside Assistance",
       icon: khamis,
       iconBg: "#FFFFFF",
-      date: "Feb 2024 - July 2024",
+      date: "Feb 2024 - April 2024",
       points: [
         "Designed and implemented a full-stack web application to manage 1000+ customers per month, reducing task downtime by 90% and driving the company’s expansion from 1 to 4 cities, with a 300% increase in clients.",
         "Utilized React.js for the UI, Express.js and Node.js for back-end server operations, and integrated a MongoDB database for effective data storage solutions, ensuring organized data management.",
