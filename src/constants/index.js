@@ -190,7 +190,13 @@ import {
   ];
   
   const testimonials = [
-    
+    {
+      testimonial: "I had the pleasure of mentoring Wasif during his internship at MRG, and I can confidently say he is an exceptionally talented developer. His technical skills are impressive, as evidenced by his quick mastery of technologies like Next.js, Go and MongoDB. Beyond his technical acumen, Wasif exhibited a remarkable capacity for learning and growth, eagerly embracing new tools and methodologies to enhance his contributions (even mastering the art of exiting from Vim!). He consistently showed enthusiasm in tackling any challenge we presented, whether it was a simple bug fix, enhancing our unit tests, releasing a new feature, or even field testing our app at a live event. His strong work ethic made him an invaluable asset to our team. I wholeheartedly recommend Wasif for any future opportunities.",
+      name: "Chad Mardini",
+      designation: "Software Architect + Lawyer",
+      company: "The MRG Group",
+      image: null,
+    }
   ];
   
   const projects = [
