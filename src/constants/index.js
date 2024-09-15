@@ -166,7 +166,7 @@ import {
     },
     {
       title: "Software Developer",
-      company_name: "Khamis Towoing & Roadside Assistance",
+      company_name: "Khamis Towing & Roadside Assistance",
       icon: khamis,
       iconBg: "#FFFFFF",
       date: "Feb 2024 - April 2024",
