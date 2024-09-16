@@ -196,6 +196,13 @@ import {
       designation: "Software Architect + Lawyer",
       company: "The MRG Group",
       image: null,
+    },
+    {
+      testimonial: "I am pleased to recommend Wasif as a software developer. He made a significant impact on our company by developing an application that greatly improved our ability to manage customer interactions and operations, which was essential to our growth and expansion. Wasif consistently demonstrated efficiency, organization, and a deep understanding of our needs. He was able to take complex business requirements and turn them into practical solutions that helped us achieve our objectives. His communication skills were excellent, ensuring everyone was on the same page throughout the process. I highly recommend Wasif to any team looking for a talented, reliable, and results-driven software developer.",
+      name: "Adam Khamis",
+      designation: "CEO + Founder",
+      company: "Khamis Towing & Roadside Assistance",
+      image: null,
     }
   ];
   
