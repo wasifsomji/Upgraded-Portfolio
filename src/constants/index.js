@@ -146,7 +146,7 @@ import {
       company_name: "Shomigo",
       icon: shomigo,
       iconBg: "#FFFFFF",
-      date: "July 2024 - Present",
+      date: "July 2024",
       points: [
         "Developed mobile authentication and onboarding flow, leveraging React Native and Figma for the UI, Supabase for user authentication, and GPT-4 DALL-E model for image generation.",
         "Wrote a Python script to handle pagination for web scraping online products across 5+ brands, reducing scraping time by 42%."
