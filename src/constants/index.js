@@ -128,7 +128,7 @@ import {
   
   const experiences = [
     {
-      title: "Software Engineering Intern",
+      title: "Software Engineer Intern",
       company_name: "The MRG Group",
       icon: mrg,
       iconBg: "#000000",
@@ -177,7 +177,7 @@ import {
       ],
     },
     {
-      title: "Information Technology Analyst",
+      title: "Information Technology Intern",
       company_name: "Pacific Reach",
       icon: pacific,
       iconBg: "#FFFFFF",
