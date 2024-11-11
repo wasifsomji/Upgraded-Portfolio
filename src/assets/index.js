@@ -35,12 +35,14 @@ import shomigo from "./company/shomigo.png";
 import lottus from "./company/lottus.png";
 import khamis from "./company/khamis-towing.png";
 import pacific from "./company/pacific.jpg";
+import lightspeed from "./company/lightspeed.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import ventures from "./ventures.png";
+
 
 export {
   logo,
@@ -83,4 +85,5 @@ export {
   mrgtravel,
   ventures,
   next,
+  lightspeed,
 };

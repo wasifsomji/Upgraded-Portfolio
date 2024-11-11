@@ -35,6 +35,7 @@ import {
     mrgtravel,
     ventures,
     next,
+    lightspeed,
   } from "../assets";
   
   export const navLinks = [
@@ -127,6 +128,16 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Software Engineer Intern",
+      company_name: "Lightspeed Commerce",
+      icon: lightspeed,
+      iconBg: "#000000",
+      date: "Jan 2025 - Apr 2025",
+      points: [
+        "Incoming @ X-Series Team"
+      ],
+    },
     {
       title: "Software Engineer Intern",
       company_name: "The MRG Group",
