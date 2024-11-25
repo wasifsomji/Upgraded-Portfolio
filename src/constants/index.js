@@ -240,10 +240,6 @@ import {
           "name": "flask",
           color: "blue-text-gradient"
         },
-        {
-          name: "tensorflow",
-          color: "orange-text-gradient",
-        },
       ],
       image: myhealthpal,
       source_code_link: "https://github.com/wasifsomji/MyHealthPal",
