@@ -36,6 +36,7 @@ import {
     ventures,
     next,
     lightspeed,
+    myhealthpal
   } from "../assets";
   
   export const navLinks = [
@@ -218,6 +219,36 @@ import {
   ];
   
   const projects = [
+    {
+      name: "MyHealthPal",
+      description:
+        "AI-powered virtual health platform providing medical advice, mental health support, and clinic recommendations.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "springboot",
+          color: "green-text-gradient",
+        },
+        {
+          "name": "flask",
+          color: "blue-text-gradient"
+        },
+        {
+          name: "tensorflow",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: myhealthpal,
+      source_code_link: "https://github.com/wasifsomji/MyHealthPal",
+      deploy_link: "https://devpost.com/software/myhealthpal",
+    },
     {
       name: "MRG Travel",
       description:

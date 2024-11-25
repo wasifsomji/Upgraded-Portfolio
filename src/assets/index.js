@@ -42,6 +42,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import ventures from "./ventures.png";
+import myhealthpal from "./myhealthpal.jpeg";
 
 
 export {
@@ -86,4 +87,5 @@ export {
   ventures,
   next,
   lightspeed,
+  myhealthpal
 };
