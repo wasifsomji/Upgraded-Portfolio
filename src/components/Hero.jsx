@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
           <div className="flex flex-col w-full items-center justify-center">
             <p className={`${styles.heroSubText} text-white-100`}>
-              Computer Engineering '25 @ McGill<br className='sm:block hidden' />
+              Computer Engineering '26 @ McGill<br className='sm:block hidden' />
             </p>
           </div>
           <div>
