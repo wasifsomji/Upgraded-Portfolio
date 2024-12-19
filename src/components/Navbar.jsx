@@ -52,7 +52,9 @@ const Navbar = () => {
           {navLinks.map((nav) => (
             <li
               key={nav.id}
-              className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
+              className={`text-secondary hover:text-[#ADD8E6] text-[18px] font-medium cursor-pointer ${
+                active === nav.title ? "text-secondary" : ""
+              }`}
               onClick={() => setActive(nav.title)}
             >
               <a href={`#${nav.id}`}>{nav.title}</a>
@@ -78,8 +80,8 @@ const Navbar = () => {
                 <li
                   key={nav.id}
                   className={`font-poppins font-medium cursor-pointer text-[16px] ${
-                    active === nav.title ? "text-white" : "text-secondary"
-                  }`}
+                    active === nav.title ? "text-[#ADD8E6]" : "text-secondary"
+                  } hover:text-[#ADD8E6]`}
                   onClick={() => {
                     setToggle(!toggle);
                     setActive(nav.title);
