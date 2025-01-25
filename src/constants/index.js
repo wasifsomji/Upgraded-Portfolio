@@ -136,7 +136,7 @@ import {
       iconBg: "#000000",
       date: "Jan 2025 - Apr 2025",
       points: [
-        "Microservices Development @ X-Series"
+        "Microservices Development @ X-Series: working with Go, GraphQL, React, and TypeScript"
       ],
     },
     {
