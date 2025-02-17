@@ -43,6 +43,7 @@ import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import ventures from "./ventures.png";
 import myhealthpal from "./myhealthpal.jpeg";
+import amazon from "./company/amazon.png";
 
 
 export {
@@ -87,5 +88,6 @@ export {
   ventures,
   next,
   lightspeed,
-  myhealthpal
+  myhealthpal,
+  amazon
 };

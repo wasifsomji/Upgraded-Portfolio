@@ -36,7 +36,8 @@ import {
     ventures,
     next,
     lightspeed,
-    myhealthpal
+    myhealthpal,
+    amazon
   } from "../assets";
   
   export const navLinks = [
@@ -129,6 +130,16 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Software Engineer Intern",
+      company_name: "Amazon",
+      icon: amazon,
+      iconBg: "#000000",
+      date: "May 2025 - Aug 2025",
+      points: [
+        "Incoming @ S25"
+      ]
+    },
     {
       title: "Software Engineer Intern",
       company_name: "Lightspeed Commerce",
