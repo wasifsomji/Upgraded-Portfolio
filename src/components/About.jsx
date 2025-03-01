@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-center'
       >
-        As a senior Computer Engineering student at McGill University, I've gained a strong foundation in software development and problem-solving. Through my various work experience and projects, I've driven impact with code across a variety of industries, such as fintech, diversified investments, entertainment, and travel. I believe in developing organized, robust systems that can scale to drive innovation across any sector.
+        Full-stack developer with experience across frontend and backend development, databases, automated testing and infrastructure.
       </motion.p>
 
 
