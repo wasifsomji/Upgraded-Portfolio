@@ -45,6 +45,8 @@ import ventures from "./ventures.png";
 import myhealthpal from "./myhealthpal.jpeg";
 import amazon from "./company/amazon.png";
 
+import hack4impact from "./volunteer/h4i.png";
+
 
 export {
   logo,
@@ -89,5 +91,6 @@ export {
   next,
   lightspeed,
   myhealthpal,
-  amazon
+  amazon,
+  hack4impact,
 };

@@ -37,7 +37,8 @@ import {
     next,
     lightspeed,
     myhealthpal,
-    amazon
+    amazon,
+    hack4impact,
   } from "../assets";
   
   export const navLinks = [
@@ -211,6 +212,31 @@ import {
       ],
     },
   ];
+
+  const volunteering = [
+    {
+      title: "Director of Engineering",
+      company_name: "McGill Ventures",
+      icon: ventures,
+      iconBg: "#000000",
+      date: "Feb 2024 - Present",
+      points: [
+        "Introduced and led the McGill Ventures technology portfolio, including the deployment of a new website that contributed to a 45% increase in club member applications and a 60% boost in event attendance.",
+        "Currently oversees a team of 5 developers and 1 designer to build a comprehensive ventures-focused CRM for Canadian startups, leading code reviews and overseeing product roadmap, feature planning, and sprint coordination.",
+      ],
+    },
+    {
+      title: "Software Developer",
+      company_name: "Hack4Impact McGill",
+      icon: hack4impact, // Replace with an actual icon
+      iconBg: "#FFFFFF",
+      date: "Sep 2024 - Present",
+      points: [
+        "Currently building an expense tracker app for Resilience Montreal, a non-profit organization that provides services to homeless and marginalized individuals in Montreal.",
+        "Previously built LiteraLingo, a web application aimed at helped special needs users learn figurative speech."
+      ],
+    }
+  ];
   
   const testimonials = [
     {
@@ -301,4 +327,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, volunteering };

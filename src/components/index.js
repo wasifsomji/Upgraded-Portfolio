@@ -4,6 +4,7 @@ import Navbar from './Navbar';
 import About from './About';
 import Tech from './Tech';
 import Experience from './Experience';
+import Volunteering from './Volunteering';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
@@ -15,6 +16,7 @@ export {
   Tech,
   Experience,
   Works,
+  Volunteering,
   Feedbacks,
   Contact,
   EarthCanvas, 
