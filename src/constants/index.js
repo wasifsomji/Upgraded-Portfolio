@@ -222,7 +222,7 @@ import {
       date: "Feb 2024 - Present",
       points: [
         "Introduced and led the McGill Ventures technology portfolio, including the deployment of a new website that contributed to a 45% increase in club member applications and a 60% boost in event attendance.",
-        "Currently oversees a team of 5 developers and 1 designer to build a comprehensive ventures-focused CRM for Canadian startups, leading code reviews and overseeing product roadmap, feature planning, and sprint coordination.",
+        "Currently oversees a team of 3 PMs, 6 developers and 2 designers to build a comprehensive ventures-focused CRM for Canadian startups, leading code reviews and overseeing product roadmap, feature planning, and sprint coordination.",
       ],
     },
     {
