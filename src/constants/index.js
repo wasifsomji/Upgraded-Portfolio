@@ -136,9 +136,9 @@ import {
       company_name: "Amazon",
       icon: amazon,
       iconBg: "#000000",
-      date: "May 2025 - Aug 2025",
+      date: "May 2025 - Present",
       points: [
-        "Incoming @ S25"
+        "Unified Payments Team (UPX)"
       ]
     },
     {
