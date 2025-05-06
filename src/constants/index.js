@@ -138,7 +138,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - Present",
       points: [
-        "Unified Payments Team (UPX)"
+        "Unified Payments Experience (UPX) Team"
       ]
     },
     {
