@@ -146,7 +146,7 @@ import {
       company_name: "Lightspeed Commerce",
       icon: lightspeed,
       iconBg: "#000000",
-      date: "Jan 2025 - Apr 2025",
+      date: "Jan 2025 - May 2025",
       points: [
         "Implemented inventory adjustment reports and custom adjustment reasons using a GraphQL, Protobuf, and RPC architecture in Go with a responsive React frontend and MySQL database, increasing reporting views by 27% and contributing to 3+ new client acquisitions post-release.",
         "Designed and deployed 120+ unit and integration tests across 8+ Go microservices, significantly improving test coverage and reducing regression bugs in production releases.",
