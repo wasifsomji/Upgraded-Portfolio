@@ -233,6 +233,13 @@ import {
   
   const testimonials = [
     {
+      testimonial: "I had the opportunity to be Wasif's manager during his internship with us at Lightspeed, and he made a significant impression. His approach to work was fantastic – always positive and a real team player. What particularly stood out was his eagerness to learn and how quickly he grasped new concepts. His technical skills were surprisingly advanced for his level of experience, allowing him to jump in and tackle challenging projects right away, making him an integral part of the team. I wouldn't hesitate for a moment to have him back.",
+      name: "Russell Lewis",
+      designation: "Software Development Manager",
+      company: "Lightspeed Commerce",
+      image: null,
+    },
+    {
       testimonial: "I had the pleasure of mentoring Wasif during his internship at MRG, and I can confidently say he is an exceptionally talented developer. His technical skills are impressive, as evidenced by his quick mastery of technologies like Next.js, Go and MongoDB. Beyond his technical acumen, Wasif exhibited a remarkable capacity for learning and growth, eagerly embracing new tools and methodologies to enhance his contributions (even mastering the art of exiting from Vim!). He consistently showed enthusiasm in tackling any challenge we presented, whether it was a simple bug fix, enhancing our unit tests, releasing a new feature, or even field testing our app at a live event. His strong work ethic made him an invaluable asset to our team. I wholeheartedly recommend Wasif for any future opportunities.",
       name: "Chad Mardini",
       designation: "Software Architect + Lawyer",
