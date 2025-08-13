@@ -166,7 +166,7 @@ import {
         "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and developed 100+ unit and integration tests for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
         "Migrated 15+ Nest.js REST endpoints to GraphQL APIs for an internal hospitality management tool across web and mobile, decreasing response times by 22%.",
         "Leveraged Sentry SDK to proactively identify and resolve 20+ bugs in GraphQL API endpoints and React.js frontend components.",
-        "Shipped 10+ web and mobile features within the AdmitOne Ticketing Platform, utilzing React.js, React Native, and Go to enhance user experience."
+        "Shipped 10+ web and mobile features within the AdmitOne Ticketing Platform, utilizing React.js, React Native, and Go to enhance user experience."
       ],
     },
     {
