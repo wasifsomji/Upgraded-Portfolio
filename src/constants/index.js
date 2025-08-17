@@ -150,10 +150,9 @@ import {
       iconBg: "#000000",
       date: "Jan 2025 - May 2025",
       points: [
-        "Developed inventory adjustment reports and custom adjustment reasons on X-Series Analytics using GraphQL, Protobuf, and RPC in Go with a responsive React frontend, boosting reporting views by 27% and driving 3+ new client acquisitions post release.",
-        "Built and deployed 120+ unit and integration tests across 8+ Go microservices, increasing test coverage and significantly reducing production regression bugs.",
-        "Engineered frontend features in React + TypeScript to integrate Lightspeed X-Series with Homebase, enabling seamless clock-in/out workflows for 25+ retailers."
-      ],
+        "Developed retail-focused features including inventory adjustment reports and custom adjustment reasons on X-Series Reporting, leveraging Go (GraphQL, Protobuf, RPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
+        "Developed and shipped frontend components in React + TypeScript to integrate Lightspeed X-Series with Homebase, enabling seamless clock-in/out workflows used daily by 25+ retailers."
+       ],
     },
     {
       title: "Software Engineer Intern",
