@@ -151,7 +151,7 @@ import {
       date: "Jan 2025 - May 2025",
       points: [
         "Built inventory adjustment reports and custom adjustment reasons for X-Series Reporting, leveraging Go (GraphQL, Protobuf, RPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
-        "Implemented dynamic report filtering in React + TypeScript, enabling retailers to customize views by date range, product category and adjustment type, reducing manual data exports by 30%",
+        "Implemented dynamic report filtering in React + TypeScript, enabling retailers to customize views by date range, product category and adjustment type, reducing manual data exports by 30%.",
         "Developed and shipped frontend components to integrate X-Series with Homebase, enabling seamless clock-in/out workflows used daily by 25+ retailers."
        ],
     },
