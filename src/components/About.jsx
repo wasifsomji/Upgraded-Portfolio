@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-center'
       >
-        Full-stack developer with experience across frontend and backend development, automated testing pipelines and cloud infrastructure.
+        Full-stack developer demonstrated with experience across backend and frontend development, distributed systems, automated testing pipelines and cloud infrastructure.
       </motion.p>
 
 
