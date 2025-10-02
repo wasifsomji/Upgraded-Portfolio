@@ -139,7 +139,7 @@ import {
       date: "May 2025 - Aug 2025",
       points: [
         "Designed and developed a WebSocket-based solution to replace polling in Amazon’s multi-factor authentication (MFA) mobile flow, reducing request volume by 88% and saving 128+ million requests annually.",
-        "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB to deliver MFA events with low latency and minimal infrastructure overhead.",
+        "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB, supporting up to 3.6M concurrent connections with minimal infrastructure overhead.", 
         "Documented and presented architectural design and demo videos to cross-functional stakeholders, clearly communicating technical trade-offs and driving alignment across engineering, product, and security teams."
       ]
     },
@@ -150,7 +150,7 @@ import {
       iconBg: "#000000",
       date: "Jan 2025 - May 2025",
       points: [
-        "Built inventory adjustment reports and custom adjustment reasons for X-Series Reporting, leveraging Go (GraphQL, Protobuf, RPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
+        "Built inventory adjustment reports and custom adjustment reasons for X-Series Reporting, leveraging Go (GraphQL, Protobuf, gRPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
         "Implemented dynamic report filtering in React + TypeScript, enabling retailers to customize views by date range, product category and adjustment type, reducing manual data exports by 30%.",
         "Developed and shipped frontend components to integrate X-Series with Homebase, enabling seamless clock-in/out workflows used daily by 25+ retailers."
        ],
