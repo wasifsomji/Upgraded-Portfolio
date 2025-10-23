@@ -39,6 +39,8 @@ import {
     myhealthpal,
     amazon,
     hack4impact,
+    stridesense,
+    onorbit,
   } from "../assets";
   
   export const navLinks = [
@@ -253,6 +255,47 @@ import {
   ];
   
   const projects = [
+    {
+      name: "StrideSense",
+      description:
+        "Full-stack running app that leverages Strava API, oAuth 2.0 and Supabase to provide performance analytics and an AI assistant for runners.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "oAuth",
+          color: "orange-text-gradient",
+        }
+      ],
+      image: stridesense,
+      deploy_link: "https://stridesense.vercel.app/",
+    },
+    {
+      name: "On-Orbit Collision Predictor",
+      description: 
+        "Developed a web app in partnership with the Canadian Space Agency (CSA) to predict collision probabilities between satellites in outer space, complete with maneuvering capabilities and 3D satellite visualization.",
+        tags: [
+          {
+            name: "Django",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "nextjs",
+            color: "green-text-gradient",
+          },
+          {
+            "name": "cesiumjs",
+            color: "orange-text-gradient"
+          },
+        ],
+        image: onorbit,
+      },
     {
       name: "MyHealthPal",
       description:

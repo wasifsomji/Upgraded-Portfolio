@@ -46,6 +46,8 @@ import myhealthpal from "./myhealthpal.jpeg";
 import amazon from "./company/amazon.png";
 
 import hack4impact from "./volunteer/h4i.png";
+import stridesense from "./stridesense.png";
+import onorbit from "./onorbit.png";
 
 
 export {
@@ -93,4 +95,6 @@ export {
   myhealthpal,
   amazon,
   hack4impact,
+  stridesense,
+  onorbit,  
 };
