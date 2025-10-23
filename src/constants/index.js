@@ -279,7 +279,7 @@ import {
     {
       name: "On-Orbit Collision Predictor",
       description: 
-        "Developed a web app in partnership with the Canadian Space Agency (CSA) to predict collision probabilities between satellites in outer space, complete with maneuvering capabilities and 3D satellite visualization.",
+        "App developed in partnership with the Canadian Space Agency (CSA) to predict collision probabilities between satellites.",
         tags: [
           {
             name: "Django",
