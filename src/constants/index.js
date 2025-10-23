@@ -277,7 +277,7 @@ import {
       deploy_link: "https://stridesense.vercel.app/",
     },
     {
-      name: "On-Orbit Collision Predictor",
+      name: "On-Orbit Predictor",
       description: 
         "App developed in partnership with the Canadian Space Agency (CSA) to predict collision probabilities between satellites.",
         tags: [
