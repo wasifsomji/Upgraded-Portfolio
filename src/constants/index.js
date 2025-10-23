@@ -258,7 +258,7 @@ import {
     {
       name: "StrideSense",
       description:
-        "Full-stack running app that leverages Strava API, oAuth 2.0 and Supabase to provide performance analytics and an AI assistant for runners.",
+        "Full-stack running app that leverages Strava API to provide performance analytics and an AI assistant for runners.",
       tags: [
         {
           name: "nextjs",
