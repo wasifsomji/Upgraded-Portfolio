@@ -265,11 +265,11 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "supabase",
+          name: "typescript",
           color: "blue-text-gradient",
         },
         {
-          name: "oAuth",
+          name: "supabase",
           color: "orange-text-gradient",
         }
       ],
