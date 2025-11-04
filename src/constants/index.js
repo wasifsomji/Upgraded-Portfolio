@@ -140,7 +140,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - Aug 2025",
       points: [
-        "Designed and developed a WebSocket-based solution to replace polling in Amazon’s payment multi-factor authentication (MFA) mobile flow, reducing request volume by 88% and saving 128+ million requests annually.",
+        "Designed and developed a WebSocket-based solution to replace polling in Amazon’s multi-factor authentication (MFA) mobile flow for payment registration, reducing request volume by 88% and saving 128+ million requests annually.",
         "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB, supporting up to 3.6 million concurrent connections per region with minimal infrastructure overhead.", 
         "Documented and presented architectural design and demo videos to cross-functional stakeholders, clearly communicating technical trade-offs and driving alignment across engineering, product, and security teams."
       ]
