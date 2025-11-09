@@ -142,7 +142,7 @@ import {
       points: [
         "Designed and developed a WebSocket-based system to replace polling in Amazon’s payment MFA mobile flow, reducing request volume by 88% and saving 128M+ requests annually.",
         "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB, supporting up to 3.6 million concurrent connections per region with minimal infrastructure overhead.", 
-        "Documented and presented architectural design and demo videos to cross-functional stakeholders, clearly communicating technical trade-offs and driving alignment across engineering, product, and security teams."
+        "Documented and presented architectural design and demo videos to 80+ cross-functional stakeholders, clearly communicating technical trade-offs and driving alignment across engineering, product, and security teams."
       ]
     },
     {
