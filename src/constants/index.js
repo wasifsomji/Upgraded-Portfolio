@@ -137,7 +137,7 @@ import {
       title: "Software Engineer Intern",
       company_name: "Amazon",
       icon: amazon,
-      iconBg: "#000000",
+      iconBg: "#000000",  
       date: "May 2025 - Aug 2025",
       points: [
         "Designed and developed a WebSocket-based system to replace polling in Amazon’s payment MFA mobile flow, reducing request volume by 88% and saving 128M+ requests annually.",
@@ -152,7 +152,7 @@ import {
       iconBg: "#000000",
       date: "Jan 2025 - May 2025",
       points: [
-        "Built inventory adjustment reports and custom adjustment reasons for X-Series Reporting, leveraging Go (GraphQL, Protobuf, gRPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
+        "Built inventory adjustment reports and custom adjustment reasons for X-Series Reporting, leveraging Go (GraphQL, Protobuf, RPC); increased reporting views by 27% and contributed to 3+ new client acquisitions post-launch.",
         "Implemented dynamic report filtering in React + TypeScript, enabling retailers to customize views by date range, product category and adjustment type, reducing manual data exports by 30%.",
         "Developed and shipped frontend components to integrate X-Series with Homebase, enabling seamless clock-in/out workflows used daily by 25+ retailers."
        ],
