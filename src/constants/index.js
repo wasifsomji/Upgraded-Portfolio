@@ -134,6 +134,16 @@ import {
   
   const experiences = [
     {
+      title: "Software Engineer I",
+      company_name: "Lightspeed Commerce",
+      icon: lightspeed,
+      iconBg: "#000000",
+      date: "Aug 2025 - Present",
+      points: [
+        "Backend Development, Selling Experience"
+      ]
+    },
+    {
       title: "Software Engineer Intern",
       company_name: "Amazon",
       icon: amazon,
