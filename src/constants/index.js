@@ -41,6 +41,7 @@ import {
     hack4impact,
     stridesense,
     onorbit,
+    frame,
   } from "../assets";
   
   export const navLinks = [
@@ -265,6 +266,26 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Frame",
+      description: "Interviewing tool that uses AI to help users practice coding interviews with real-time feedback and suggestions.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        }
+      ],
+      image: frame,
+      deploy_link: "https://frame-interviewer.vercel.app/",
+    },
     {
       name: "StrideSense",
       description:

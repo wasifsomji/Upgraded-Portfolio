@@ -49,6 +49,8 @@ import hack4impact from "./volunteer/h4i.png";
 import stridesense from "./stridesense.png";
 import onorbit from "./onorbit.png";
 
+import frame from "./frame.jpeg";
+
 
 export {
   logo,
@@ -97,4 +99,5 @@ export {
   hack4impact,
   stridesense,
   onorbit,  
+  frame,
 };
