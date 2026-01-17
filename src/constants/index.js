@@ -139,9 +139,10 @@ import {
       company_name: "Lightspeed Commerce",
       icon: lightspeed,
       iconBg: "#000000",
-      date: "Aug 2025 - Present",
+      date: "Sep 2025 - Present",
       points: [
-        "Backend Development, Selling Experience"
+        "Refactored an internal Go post-sale fulfilment method into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith and other Go services.",
+        "Identified the root cause of a Sev-1 incident causing duplicate picklist creation across 900+ sales and 300+ outlets, directly mitigating impact and documenting corrective actions in a post-incident review shared with senior leadership."
       ]
     },
     {
