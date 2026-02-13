@@ -142,7 +142,7 @@ import {
       date: "Sep 2025 - Present",
       points: [
         "Engineered a direct-sync RPC flow to handle 600,000+ annual sales between Lightspeed E-Com and X-Series, streamlining the architecture from 5 service layers to 3 and decommissioning an intermediate proxy service.",
-        "Refactored a legacy Go fulfillment module into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith and other Go services.",
+        "Refactored a legacy Go fulfillment module responsible for 432M+ annual sales into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith.",
         "Identified the root cause of a Sev-1 incident causing duplicate picklist creation across 900+ sales and 300+ outlets, directly mitigating impact and documenting corrective actions in a post-incident review shared with senior leadership."
       ]
     },
