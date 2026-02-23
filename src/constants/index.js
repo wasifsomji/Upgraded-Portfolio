@@ -142,7 +142,7 @@ import {
       date: "Sep 2025 - Present",
       points: [
         "Engineered a direct-sync RPC flow to handle 600,000+ annual sales between Lightspeed E-Com and X-Series, streamlining the architecture from 5 service layers to 3 and decommissioning an intermediate proxy service.",
-        "Refactored a legacy Go fulfillment module responsible for 432M+ annual sales into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith.",
+        "Refactored a legacy Go fulfillment module responsible for processing 430M+ sales annually into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith.",
        ]
     },
     {
@@ -153,7 +153,7 @@ import {
       date: "May 2025 - Aug 2025",
       points: [
         "Designed and developed a WebSocket-based system to replace polling in Amazon’s payment MFA mobile flow, reducing request volume by 88% and saving 128M+ requests annually.",
-        "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB, supporting up to 3.6 million concurrent connections per region with minimal infrastructure overhead.", 
+        "Engineered a scalable real-time notification system using AWS API Gateway (WebSocket API), Lambda, SNS, and DynamoDB, supporting up to 3.6M concurrent connections per region with minimal infrastructure overhead.", 
         "Documented and presented architectural design and demo videos to 80+ cross-functional stakeholders, clearly communicating technical trade-offs and driving alignment across engineering, product, and security teams."
       ]
     },
