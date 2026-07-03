@@ -135,11 +135,21 @@ import {
   
   const experiences = [
     {
-      title: "Software Developer I",
+      title: "Software Engineer",
+      company_name: "Amazon",
+      icon: amazon,
+      iconBg: "#000000", 
+      date: "June 2026 - Present",
+      points: [
+        "Tooling Development @ BuilderWorks Content Systems"
+      ]
+    },
+    {
+      title: "Software Developer II",
       company_name: "Lightspeed Commerce",
       icon: lightspeed,
       iconBg: "#000000",
-      date: "Sep 2025 - Present",
+      date: "Sep 2025 - June 2026",
       points: [
         "Engineered a direct-sync RPC flow to handle 600,000+ annual sales between Lightspeed E-Com and X-Series, streamlining the architecture from 5 service layers to 3 and decommissioning an intermediate proxy service.",
         "Refactored a legacy Go fulfillment module responsible for processing 430M+ sales annually into an RPC-invokable endpoint, consolidating duplicated logic across 5+ sale-creation APIs and enabling event-driven execution from a PHP monolith.",
